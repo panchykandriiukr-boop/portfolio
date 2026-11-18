@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 246" fill="none"><title>Illustration: a round character holding a giant pencil</title>
+<g fill="#F5A623"><path d="M62 70l5 14 14 5-14 5-5 14-5-14-14-5 14-5z"/><path d="M96 38l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><circle cx="48" cy="150" r="5"/></g>
+<g transform="rotate(18 262 110)"><rect x="252" y="14" width="22" height="150" rx="3" fill="#FFE202" stroke="#0F3548" stroke-width="3"/><path d="M252 164h22l-11 30z" fill="#FCFBF8" stroke="#0F3548" stroke-width="3" stroke-linejoin="round"/><path d="M258 182h10l-5 12z" fill="#0F3548"/><rect x="252" y="14" width="22" height="20" rx="3" fill="#F5A623" stroke="#0F3548" stroke-width="3"/></g>
+<path d="M150 62C150 38 192 38 192 62C196 78 210 92 219 124C231 166 226 214 208 224H134C116 214 112 166 124 124C133 92 146 78 150 62Z" fill="#0F3548"/>
+<path d="M205 128C226 126 238 118 246 108" stroke="#0F3548" stroke-width="15" stroke-linecap="round"/>
+<g stroke="#FCFBF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M160 58q11 9 22 0M158 52h.01M184 52h.01"/><path d="M148 116c14 26 20 56 12 92"/><path d="M236 100l5 4M242 96l4 5M247 91l4 5"/></g>
+<path d="M132 224c-8 0-14 6-14 12h34v-12zM208 224c8 0 14 6 14 12h-34v-12z" fill="#0F3548"/>
+</svg>
